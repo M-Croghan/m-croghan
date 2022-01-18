@@ -8,7 +8,7 @@ I was exposed to programming early in high school, but my fear of undertaking ac
 ---
 
 ### :toolbox: Tools :toolbox:
-<img src="img/java_red.png" width="100"> <img src="img/py.png" width="100"> <img src="img/c.png" width="115"> <img src="img/js.png" width="130"> <img src="img/ts.png" width="100"> <img src="img/angular.png" width="140"> <img src="img/sboot.png" width="100">  <img src="img/html-css.png" width="175">  <img src="img/pg.png" width="100"> <img src="img/springfull.png" width="250">  <img src="img/mysql.png" width="100">  <img src="img/git.png" width="100">  <img src="img/aws1.png" width="250">
+<img src="img/java_red.png" width="100"> <img src="img/py.png" width="100"> <img src="img/c.png" width="115"> <img src="img/js.png" width="130"> <img src="img/ts.png" width="100"> <img src="img/angular.png" width="140"> <img src="img/sboot.png" width="100">  <img src="img/html-css.png" width="175">  <img src="img/pg.png" width="100"> <img src="img/springfull.png" width="250">  <img src="img/mysql.png" width="100">  <img src="img/git.png" width="100"> <div style="align: center"> <img src="img/aws1.png" width="250"> </div>
 
 ---
 

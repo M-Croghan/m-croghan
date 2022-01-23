@@ -7,13 +7,15 @@ I was exposed to programming early in high school, but my fear of undertaking ac
 ---
 
 ## CONNECT WITH ME
-<!-- <img src="img/li.png" width="50"> <img src="img/lc.png" width="70"> <img src="img/hr.png" width="70">  -->
+<a href="https://www.linkedin.com/in/m-croghan/"><img src="img/li.png" width="80"></a>
+<a href="https://www.hackerrank.com/mcrog_7"><img src="img/lc.png" width="80"></a>
+<a href="https://leetcode.com/M-Croghan/"><img src="img/hr.png" width="75"></a>
 
 ---
 
 ## :toolbox: TECHNOLOGIES & TOOLS :toolbox:
 <img src="img/java_red.png" width="100"> <img src="img/py.png" width="100"> <img src="img/c.png" width="115"> <img src="img/js.png" width="130"> <img src="img/ts.png" width="100"> <img src="img/angular.png" width="140"> <img src="img/sboot.png" width="100">  <img src="img/html-css.png" width="175">  <img src="img/pg.png" width="100"> <img src="img/springfull.png" width="250">  <img src="img/mysql.png" width="100">  <img src="img/git.png" width="100"> <img src="img/linux.png" width="150">  <img src="img/node.png" width="170"> <img src="img/aws1.png" width="250"> <img src="img/intellij.png" width="100"> <img src="img/vs.png" width="100"> 
-<img src="img/postman.png" width="100"> 
+<img src="img/post.png" width="100"> 
 
 ---
 

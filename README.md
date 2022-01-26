@@ -8,8 +8,8 @@ I was exposed to programming early in high school, but my fear of undertaking ac
 
 ## CONNECT WITH ME
 <a href="https://www.linkedin.com/in/m-croghan/" target="_blank"><img src="img/li.png" width="80"></a>
-<a href="https://www.hackerrank.com/mcrog_7" target="_blank"><img src="img/lc.png" width="80"></a>
-<a href="https://leetcode.com/M-Croghan/" target="_blank"><img src="img/hr.png" width="75"></a>
+<a href="https://leetcode.com/M-Croghan/" target="_blank"><img src="img/lc.png" width="80"></a>
+<a href="https://www.hackerrank.com/mcrog_7" target="_blank"><img src="img/hr.png" width="75"></a>
 
 ---
 

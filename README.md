@@ -21,6 +21,7 @@ I was exposed to programming early in high school, but my fear of undertaking ac
 
 ### GITHUB STATS
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Croghan&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Croghan&hide=jupyter%20notebook&theme=radical)
 <!--
 **M-Croghan/m-croghan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
